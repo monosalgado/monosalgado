@@ -115,8 +115,3 @@ I enjoy building practical security tooling, research prototypes, and educationa
 - **GitHub**: https://github.com/monosalgado  
 
 ---
-
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=monosalgado&theme=dracula&show_icons=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=monosalgado&layout=compact&theme=dracula)
-![GitHub Streak](https://streak-stats.demolab.com?user=monosalgado&theme=dracula)
